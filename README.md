@@ -86,7 +86,7 @@ Click any section to jump directly to that part of the code:
 
 | | Repository | Focus | Impact |
 |--|------------|-------|--------|
-| ➡️ | [revenue-leakage-analysis](https://github.com/YOUR-USERNAME/revenue-leakage-analysis) | Where is revenue lost? | $70–104K recovery |
+| ➡️ | [revenue-leakage-analysis](https://github.com/fahimhasan-data/revenue-leakage-analysis/tree/main) | Where is revenue lost? | $70–104K recovery |
 | ➡️ | [executive-dashboard](https://github.com/YOUR-USERNAME/executive-dashboard) | Power BI KPI dashboard | Real-time insights |
 
 ---
